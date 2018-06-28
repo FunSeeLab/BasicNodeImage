@@ -1,3 +1,3 @@
 From node:8.10-alpine
 
-RUN apk -v
+RUN npm install -g yarn pm2
